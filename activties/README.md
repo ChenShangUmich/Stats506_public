@@ -13,8 +13,8 @@ cutnames.sh
 Questions
 
 ## Week3 - Git and Markdown activity
-## Part 1-Clone States506_public
+### Part 1-Clone States506_public
 
 Add & Modify README.md
 
-## Part2-Practice using branches in git
+### Part2-Practice using branches in git
